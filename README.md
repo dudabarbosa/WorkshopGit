@@ -1,4 +1,4 @@
-# Boas vindas ao Workshop de Git ✨
+# Maria Eduarda Silva Barbosa ✨
 
 ## Instruções para começar
 
@@ -12,9 +12,9 @@ Também delete esta sessão de instruções e modifique a primeira linha trocand
 
 Aqui você pode contar coisas que queira compartilhar sobre você, você pode dar destaque usando **negrito** ou *itálico*, listas sempre são úteis nesse momento:
 
-- Curso / Faculdade
-- Áreas de interesse
-- Hobbies
+- **Design / UFPE**
+- **Design, tecnologia, ilustração, arte, música**
+- **Tecido acrobático, skate, séries, música**
 
 ## Projetos
 
